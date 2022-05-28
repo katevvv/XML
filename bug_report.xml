@@ -1,1 +1,16 @@
+<bug report>
 
+<Bug_id>1</Bug_id>
+<Title>The 'SAVE DATA' button is smaller than the others</Title> 
+
+<Severity>trivial</Severity>
+<Priority>low</Priority>
+
+<Environment>Pixel 4, Android 11.0</Environment>
+
+<AR>The application buttons have one view</AR>
+
+<ER>The 'SAVE DATA' button is smaller than the others</ER>
+<Attachments>https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing</Attachments>
+  
+</bug report>
